@@ -7,3 +7,5 @@ I use IDLE (python 3.10 64 bit).
 Copy the code from here and paste it into your IDLE file. Save and  run the module. 
 Start the game by reading the introduction and entering your character name. 
 Follow the prompts to collect clues and discover who the killer is!
+I apologize that there are a few choices that make the program crash.
+Re open to try again, I promise there is a way to the end!
